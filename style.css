@@ -1,0 +1,602 @@
+body{
+    margin: 0px;
+    margin-top: 0%;
+    font-family: sans-serif;
+}.header{
+    background-color: rgb(76, 76, 78);
+    width: 100%;
+    height: 135px;
+    background-color: white;
+    padding: 0;
+    position: fixed;
+    top: 0;
+}.main-header{
+    width: 100%;
+    height: 50px;
+}.body{
+    padding: 10%;
+    width: 100%;
+    background-color: #202124;
+    height: 50%;
+    padding-left: 0px;
+
+
+}
+.location{
+    background-color:white;
+    width: 58%;
+    height: 50px;
+    padding: 0%;
+    padding-right: 10px;
+    float: left;
+}
+.pin-text{
+    width: 13px;
+    margin-left: 57%;
+    padding-top: 0px;
+    margin-bottom: -16px;
+
+}
+#location-text{
+    padding: 0%;
+    margin: 0px;
+    font-family: sans-serif;
+    margin-left: 505px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #202124;
+    height: 32px;
+    line-height: 24px;
+    width: 338px;
+    margin-top: -5px;
+
+
+}.location2{
+    float: left;
+    background-color: white;
+    width: 50%;
+    height: 50px;
+    margin-left: 859px;
+    margin-top: -50px;
+
+}
+.set-location{
+    background-color: black;
+    color: white;
+    width: 98px;
+    height: 32px;
+    margin: 0px;
+    border-radius: 17px;
+    margin-left: 7px;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 12px;
+    line-height: 24px;
+    font-weight: 650;
+}.hor-line{
+    margin-top: 0px;
+    color: rgb(0, 0, 0);
+    height: 0px;
+    background-color: black;
+    border-top: 0px solid #dbdbdb;
+}.kfc{
+    width: 50%;
+    background-color: white;
+    height: 92px;
+    float: left;
+}#kfc-logo{
+    margin-left: 129px;
+    margin-top: 32px;
+    
+
+}#menu{
+    color: black;
+    margin: 0%;
+    margin-left: 251px;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: -23px;
+    font-weight: 66;
+}#deals{
+    color: black;
+    margin: 0%;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 66;
+    margin-left: 328px;
+    margin-top: -16px;
+
+}
+.sign-in{
+    float: left;
+    width: 50%;
+    background-color: white;
+    height: 92px;
+    
+}.part1{
+    width: 61%;
+    height: 92px;
+    float: left;
+
+}
+
+.cartoon{
+    margin-top: 31px;
+    margin-left: 353px;
+    font-weight: 700;
+
+}.si{
+    margin: -10%;
+    margin-left: 385px;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+    float: left;
+}
+.bucket{
+    
+    width: 39%;
+    height: 92px;
+    float: left;
+    margin-left: 202px;
+}.bc{
+    display: block;
+    width: 47px;
+    margin-top: -46px;
+    margin-left: 18%;
+    background-color: white;
+   
+}.rup{
+    display: block;
+    margin-left: 30px;
+    margin-top: 41px;
+    background-color: white;
+    width: 16px;
+    /* font-weight: bold; */
+    font-family: sans-serif;
+    font-size: 13px;
+
+}.vertical{
+    border-left: 1px solid rgb(166, 166, 169);
+    background-color: gray;
+    height: 23px;
+    position: absolute;
+    left: 81%;
+    margin-top: 36px;
+}.order-start{
+    width: 100%;
+    background-color: #202124;
+    height: 86px;
+}
+.start-order{
+    width: 56%;
+    height: 70px;
+    padding-top: 12px;
+    float:left
+}.so{
+    margin-left: 57%;
+    color: white;
+    /* background-color: sienna; */
+    width: 42%;
+    /* display: block; */
+    padding: 0;
+    height: 0px;
+    padding-top: 10px;
+    font-size: 15px;
+    font-family: system-ui;
+    font-weight: bold;
+}.butt{
+    width: 35%;
+    float: left;
+}
+.so-button{
+    margin-top: 2%;
+    width: 153px;
+    height: 45px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 14px;
+    background-color: #e4002b;
+    border: 1.5px solid #e4002b;
+    color: white;
+    margin-left: -1px;
+    margin-top: 25px;
+}.super-star{
+    width: 100%;
+    padding: 0%;
+}.welcome-kfc{
+    width: 100%;
+    height: 136px;
+    background: #f8f7f5;
+}
+.strips{
+    width: 40px;
+    height: 20px;
+    background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#fff 0,#fff 16px);
+    margin-left: 190px;
+    margin-top: -4px;
+}.welcome{
+    font-family: system-ui;
+    font-style: inherit;
+    font-weight: 900;
+    font-size: 33px;
+    line-height: 2px;
+    text-transform: uppercase;
+    color: #202124;
+    /* margin-left: 186px; */
+    padding-left: 184px;
+    padding-top: 0px;
+
+
+}.browse{
+    width: 25%;
+    font-size: 19px;
+    float: left;
+    padding-top: 25px;
+    padding-left: 279px;
+}.brws-line{
+    width: 48%;
+    float: left;
+    color: #919191;
+    background-color: #c1c1c1;
+    /* border-block-color: #dedede; */
+    margin-top: 63px;
+    margin-left: -8px;
+
+}.sub-body{
+    width: 100%;
+    height: 130px;
+    padding: 0%;
+    background-color: white;
+    padding-top: 36px;
+    padding-left: -11px;
+}.product{
+    width: 100%;
+    height: 869px;
+    background-color: white;
+    PADDING: 0;
+    padding-top: 24px;
+    padding-left: 44%;
+}
+.card1{
+    
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    /* margin-right: 8px; */
+    margin-left: -25%;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 16px;
+    float: left;
+    display: block;
+}.img-1{
+    width: 100%;
+    margin-left: 0%;
+    border-radius: 1%;
+}
+.container{
+    color: #202124;
+    /* margin-left: 19%; */
+    margin-top: 31px;
+    font-size: 16px;
+    text-align: center;
+}
+.card2{
+
+    margin: -6%;
+    
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 16px;
+    float: left;
+
+}.card3{
+    margin: 7%;
+   
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 16px;
+    float: left;
+
+}.card4{
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    /* margin-right: 8px; */
+    margin-left: -63%;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 279px;
+    float: left;
+    
+}.card5{
+    margin: 0%;
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 279px;
+    float: left;
+    display: block;
+    margin-left: -637px;
+}.card6{
+    margin: 0%;
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 279px;
+    float: left;
+    display: block;
+    margin-left: -361px;
+}.card7{
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    /* margin-right: 8px; */
+    margin-left: -63%;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 542px;
+    float: left;
+}.card8{
+    margin: 0%;
+    transition: 0.3s;
+    width: 18%;
+    height: 250px;
+    background: #f8f7f5;
+    border-radius: 3px;
+    margin-top: 542px;
+    float: left;
+    display: block;
+    margin-left: -637px;
+}.container2{
+    color: #202124;
+    /* margin-left: 19%; */
+    margin-top: 67px;
+    font-size: 12px;
+    text-align: center;
+}.arrow{
+    width: 12%;
+    vertical-align: middle;
+}.offer{
+    background-color: #202124;
+    width: 100%;
+    height: 600px;
+}.strip{
+    width: 40px;
+    height: 20px;
+    background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#202124 0,#202124 16px);
+    margin-left: 190px;
+    margin-top: -4px;
+
+}.strip1{
+    color: #202124;
+}.offer-and-deals{
+    font-size: 38px;
+    padding: 24px;
+    color: white;
+    width: 1154px;
+    /* height: 125px; */
+    font-family: fantasy;
+    font-weight: 100;
+    margin-left: -27px;
+    margin-top: 4px;
+    padding-top: 39px;
+}.and{
+    font-size: 47px;
+}.cardfree1{
+    box-shadow: 0 4px 9px rgb(0 0 0 / 15%);
+    /* position: relative; */
+    height: 401px;
+    background-color: #f8f7f5;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    margin-left: 190px;
+    margin-top: 151px;
+    float: left;
+}.free-chicken{
+    font-size: 31px;
+    font-family: fantasy;
+    color: #e4002b;
+    margin-top: 3px;
+}.chicken-zinger{
+    font-size: 14.5px;
+    margin-top: -36px;
+    padding: 7px;
+}.details{
+    font-size: 14px;
+    color: #202124;
+    margin-left: -128px;
+}.redeem{
+    width: 39%;
+    height: 44px;
+    margin-top: -26px;
+    margin-left: 176px;
+    border-radius: 36px;
+    border-color: black;
+
+}.cardfree2{
+    box-shadow: 0 4px 9px rgb(0 0 0 / 15%);
+    /* position: relative; */
+    height: 401px;
+    background-color: #f8f7f5;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    margin-left: 45px;
+    margin-top: 151px;
+    float: left;
+}.view-all{
+    font-size: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+}.va{
+    padding-top: 10px;
+}.cardfree3{
+     box-shadow: 0 4px 9px rgb(0 0 0 / 15%);
+    /* position: relative; */
+    height: 401px;
+    background-color: #f8f7f5;
+    border-radius: 8px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    margin-left: 45px;
+    margin-top: 151px;
+    float: left;
+}.footer{
+    width: 100%;
+    height: 500px;
+    background-color: #202124;
+    padding: 1px;
+}.bucket-annan{
+    margin-top: 10px;
+    margin-left: 18%;
+}.kfc-food{
+    margin-left: 240px;
+    font-size: 10px;
+    margin-top: -62px;
+    color: white;
+}.support{
+    margin-left: 363px;
+    font-size: 13px;
+    margin-top: -38px;
+    color: white;
+   
+}.KFC-india{
+    margin-left: 631px;
+    font-size: 13px;
+    margin-top: -53px;
+    color: white;
+    padding-top: 10px;
+}.menu-kfc{
+    margin-left: 240px;
+    font-size: 12px;
+    margin-top: -9px;
+    color: white;
+}.get-help{
+    margin-left: 363px;
+    font-size: 12px;
+    margin-top: -38px;
+    color: white;
+}.terms-and-condition{
+    margin-left: 468px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.legal{
+    margin-left: 468px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.about-kfc{
+    margin-left: 628px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.order-look-up{
+    margin-left: 239px;
+    font-size: 12px;
+    margin-top: 0px;
+    color: white;
+}.contact{
+    margin-left: 363px;
+    font-size: 12px;
+    margin-top: -38px;
+    color: white;
+}.privacy{
+    margin-left: 468px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.kfc-care{
+    margin-left: 628px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.gift-Card{
+    margin-left: 239px;
+    font-size: 12px;
+    margin-top: 0px;
+    color: white;
+}.feedback{
+    margin-left: 363px;
+    font-size: 12px;
+    margin-top: -38px;
+    color: white;
+}.declaimer{
+    margin-left: 468px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.career{
+    margin-left: 628px;
+    font-size: 12px;
+    margin-top: -46px;
+    color: white;
+}.bucket-logo{
+    float: left;
+}.footer-next{
+    width: 48%;
+    float: left;
+    height: 400px;
+    background-color: #202124;
+}.find-kfc{
+    width: 10px;
+    margin-left: 45px;
+    margin-top: 6px;
+}.find{
+    color: white;
+    font-size: 14px;
+    margin-top: 12px;
+    margin-left: 12px;
+}.google{
+    width: 156px;
+    margin-left: 243px;
+    margin-top: -145px;
+    float: left;
+    display: block;
+}.apple-logo{
+    width: 10px;
+    float: left;
+}.apple-logo{
+    margin-left: 406px;
+    width: 122px;
+    margin-top: -97px;
+}.image{
+    width: 10px;
+    float: left;
+}.part1{
+    width: 33%;
+}.part2{
+    width: 33%;
+}.part3{
+    width: 33%;
+}.copyright{
+    margin-left: 0px;
+    width: 100%;
+}.copy{
+    margin-left: 531px;
+    font-size: 14px;
+    color: white;
+
+}
